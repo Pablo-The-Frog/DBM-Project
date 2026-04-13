@@ -5,7 +5,7 @@ Un projet collaboratif pour créer une fusée artisanale propulsée au KNO₃ + 
 
 ## Modules :
 - Design moteur avec FreeCAD
-- Propergol caramelisé version améliorée
+- Propergol recrystalisé
 
 ## Dossier important
 - `docs/` : designs CAO, schémas, versions précédentes
